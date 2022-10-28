@@ -1,0 +1,11 @@
+C:\Users\abdulaziz\Desktop\tesk2_itechart\bin\Debug\tesk2_itechart.exe
+C:\Users\abdulaziz\Desktop\tesk2_itechart\bin\Debug\tesk2_itechart.pdb
+C:\Users\abdulaziz\Desktop\tesk2_itechart\bin\Debug\WebDriver.dll
+C:\Users\abdulaziz\Desktop\tesk2_itechart\obj\Debug\tesk2_itechart.csproj.AssemblyReference.cache
+C:\Users\abdulaziz\Desktop\tesk2_itechart\obj\Debug\tesk2_itechart.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdulaziz\Desktop\tesk2_itechart\obj\Debug\tesk2_itechart.csproj.CoreCompileInputs.cache
+C:\Users\abdulaziz\Desktop\tesk2_itechart\obj\Debug\tesk2_itechart.csproj.CopyComplete
+C:\Users\abdulaziz\Desktop\tesk2_itechart\obj\Debug\tesk2_itechart.exe
+C:\Users\abdulaziz\Desktop\tesk2_itechart\obj\Debug\tesk2_itechart.pdb
+C:\Users\abdulaziz\Desktop\tesk2_itechart\bin\Debug\log4net.dll
+C:\Users\abdulaziz\Desktop\tesk2_itechart\bin\Debug\log4net.xml
